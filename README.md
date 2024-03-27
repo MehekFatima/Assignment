@@ -1,7 +1,5 @@
-#  Frontend Development Internship Assignment
+# Frontend Development Internship Assignment
 
+**Output Preview:**
 
-
-**Output Link**: The deployed version of the assignment can be viewed [here](Deployed_Output_Link_Here).
-
-  
+![Assignment Output](https://github.com/MehekFatima/Assignment/blob/main/chrome-capture-2024-3-28.gif?raw=true)
